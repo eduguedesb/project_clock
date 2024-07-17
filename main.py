@@ -60,3 +60,5 @@ def relogio():
 relogio()
 
 janela.mainloop()
+
+# Projeto de estudo!
